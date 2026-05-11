@@ -392,7 +392,7 @@ footer {
 
 <img width="1919" height="1137" alt="image" src="https://github.com/user-attachments/assets/32ec3afe-1071-44b1-8107-03f1b74ec398" />
 
-## RESULT
+# RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
 
 
